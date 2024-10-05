@@ -2,7 +2,7 @@
 <a href="linkedin.com/in/lucson81422b243"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-As a Cybersecurity Engineer with a Bachelor’s degree in Computer Science and a diverse set of industry-recognized certifications, including CompTIA A+, Network+, Security+, Google Cybersecurity Certificate, and AWS cloud, I am passionate about safeguarding digital assets and driving organizational success through proactive security measures.
+As a Cybersecurity Analyst with a Bachelor’s degree in Computer Science and a diverse set of industry-recognized certifications, including CompTIA A+, Network+, Security+, Google Cybersecurity Certificate, and AWS cloud, I am passionate about safeguarding digital assets and driving organizational success through proactive security measures.
 
 ## Skills
 
