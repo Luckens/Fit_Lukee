@@ -38,6 +38,9 @@ As a Cybersecurity Analyst with a Bachelor’s degree in Computer Science and a 
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
+### CLOUD
+<div> <img src="https://img.shields.io/badge/-Amazon_AWS-232F3E?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" /> <img src="https://img.shields.io/badge/-AWS_CloudFormation-232F3E?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" /> <img src="https://img.shields.io/badge/-AWS_Lambda-FF9900?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" /> </div>
+
 
 ## Certifications
 <div>
